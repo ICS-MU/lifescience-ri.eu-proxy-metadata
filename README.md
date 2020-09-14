@@ -1,3 +1,5 @@
+Last update at eduID.cz: 14. 9. 2020 by Michal Prochazka
+
 # SAML2 metadata of the LifeScience AAI IdP Proxy
 
 * Metadata are published via eduID.cz (https://eduid.cz). 
