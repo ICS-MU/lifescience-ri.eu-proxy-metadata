@@ -8,10 +8,6 @@
     <eduidmd:RepublishRequest>
       <eduidmd:RepublishTarget>http://edugain.org/</eduidmd:RepublishTarget>
     </eduidmd:RepublishRequest>
-    <mdrpi:RegistrationInfo registrationAuthority="http://www.eduid.cz/" registrationInstant="2020-06-26T10:19:02Z">
-      <mdrpi:RegistrationPolicy xml:lang="en">http://www.eduid.cz/wiki/_media/en/eduid/policy/policy_eduid_en-1_1.pdf</mdrpi:RegistrationPolicy>
-      <mdrpi:RegistrationPolicy xml:lang="cs">http://www.eduid.cz/wiki/_media/eduid/policy/policy_eduid_cz-1_1-3.pdf</mdrpi:RegistrationPolicy>
-    </mdrpi:RegistrationInfo>
   </md:Extensions>
   <md:SPSSODescriptor AuthnRequestsSigned="true" WantAssertionsSigned="false" protocolSupportEnumeration="urn:oasis:names:tc:SAML:2.0:protocol">
     <md:Extensions>
