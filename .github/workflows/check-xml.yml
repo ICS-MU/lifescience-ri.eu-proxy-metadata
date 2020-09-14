@@ -24,4 +24,4 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
-        run: xmllint --noout $GITHUB_WORKSPACE/*.xml > /dev/null 2>&1
+        run: xmllint --noout $GITHUB_WORKSPACE/proxy.aai.lifescience-ri.eu.metadata.xml > /dev/null 2>&1
